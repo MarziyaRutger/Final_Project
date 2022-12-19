@@ -35,7 +35,7 @@ I also an interactive plotly map to show how airbnb is distrbuted using the pric
 
 ## AIRBNB PRICE
 
-<iframe src= "map.html" height= "855" width= "95%"></iframe>
+<iframe src= "map.html](https://raw.githubusercontent.com/MarziyaRutger/Final_Project/main/map.html" height= "855" width= "95%"></iframe>
 
 
 
@@ -45,4 +45,4 @@ I used only manhattan because the folium kept crashing when i tried to map the p
 ## AIRBNB AND EVICTIONS
 
 
-<iframe src= "Airbnb_Data.html" height= "855" width= "95%"></iframe>
+<iframe src= :https://raw.githubusercontent.com/MarziyaRutger/Final_Project/main/Airbnb_Data.html" height= "855" width= "95%"></iframe>
