@@ -1,4 +1,4 @@
-## How is Airbnb really being used in and affecting the neighbourhoods of your city?
+## How is Airbnb affecting Rental Market in New York City?
 
 # Marziya Farooq- Command Line GIS
 # Final Project
