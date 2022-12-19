@@ -25,5 +25,9 @@ My first static map is of median rents in New york city to have a better idea ab
 
 Here is my sample web map
 
-<iframe src= "Airbnb_chloropeth_map.png" height= "500" width= "95%"></iframe>
+## Static Maps:
+<div style="display: flex;">
+  <img src="Median Rents in NYC.png" style="width: 50%; height: auto;">
+  <img src="Airbnb_chloropeth_map.png" style="width: 50%; height: auto;">
+</div>
 
