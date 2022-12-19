@@ -22,3 +22,8 @@ I had to clean quite abit of the data because there were null value and infinite
 
 My first static map is of median rents in New york city to have a better idea about how rents are divided around NYC.
 
+
+Here is my sample web map
+
+<iframe src= "Airbnb_chloropeth_map.png" height= "855" width= "95%"></iframe>
+
