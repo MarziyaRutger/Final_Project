@@ -30,15 +30,19 @@ My first static map is of the density of airbnb around NYC. I normalised airbnb 
 </div>
 
 
-I also an interactive plotly map to show how airbnb is distrbuted using the price per night. this can be seen in junction to the rents and it is easy to see that in areas where rents are, airbnbs prices are also high. mostly because it is manhattan where living costs are extremely high.
+I also an interactive plotly map to show how airbnb is distrbuted using the price per night. this can be seen in junction to the rents and it is easy to see that in areas where rents are, airbnbs prices are also high. mostly because it is manhattan where living costs are extremely high.This shows the how the airbnb in newyork city are distrbuted with price, with the cheapest being 20 per night and the most expensive being 10,000 dollars per night.
+
 
 ## AIRBNB PRICE
+
 <iframe src= "map.html" height= "855" width= "95%"></iframe>
 
-This shows the how the airbnb in newyork city are distrbuted with price, with the cheapest being 20 per night and the most expensive being 10,000 dollars per night.
 
 
 Finally, I wish to show my interactive webmap which shows 3 layers. the first is the chloropleth layer than i also created a static map. I wanted to use that in my folium so that I could show how my map looks on folium. I overlaid the map with eviction data using proportional symbols to have a better idea of the relationship between evictions and airbnb density. Finally I created a cluster map of airbnb data
 I used only manhattan because the folium kept crashing when i tried to map the point data for the whole of new york as it was too many points (more than 40,000).
+
+## AIRBNB AND EVICTIONS
+
 
 <iframe src= "Airbnb_Data.html" height= "855" width= "95%"></iframe>
