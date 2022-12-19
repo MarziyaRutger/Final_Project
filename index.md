@@ -20,14 +20,18 @@ Most of the data was in CSV format except the census tract files which were in s
 For eviciton and airbnb, I joined it used spatial join and aggregation and I created centroids of it. 
 I had to clean quite abit of the data because there were null value and infinite values and some low-relaiability values.
 
-My first static map is of median rents in New york city to have a better idea about how rents are divided around NYC.
+My first static map is of the density of airbnb around NYC. I normalised airbnb data with total number of housing to get a better and more accurate version or airbnb density. My second static map is of median rents in New york city to have a better idea about how rents are divided around NYC. the two maps side by side do a good job of showing how airbnb density and rents correlate with each. increase rents are in areas where the airbnb density is high.
 
-
-Here is my sample web map
 
 ## Static Maps:
 <div style="display: flex;">
   <img src="Median Rents in NYC (1).png" style="width: 50%; height: auto;">
   <img src="Arbnb Chloropleth map.png" style="width: 50%; height: auto;">
 </div>
+
+
+I also an interactive plotly map to show how airbnb is distrbuted using the price per night. this can be seen in junction to the rents and it is easy to see that in areas where rents are, airbnbs prices are also high. mostly because it is manhattan where living costs are extremely high.
+
+## AIRBNB PRICE
+<iframe src= "Airbnb_Data.html" height= "855" width= "95%"></iframe>
 
